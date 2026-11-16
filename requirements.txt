@@ -1,1 +1,10 @@
 numpy pandas matplotlib seaborn scipy scikit-learn jupyter ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+jupyter
+ipykernel
+
